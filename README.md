@@ -1,4 +1,8 @@
-## Hi there 👋
+## What's up! 👋
+
+- I'm looking for study and practice my skills
+- How to reach me: blondydev@gmail.com
+- Fun fact: English is not my native lenguage.
 
 <!--
 **BlondyDev/BlondyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
